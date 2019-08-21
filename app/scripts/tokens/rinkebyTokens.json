@@ -1,4 +1,10 @@
-[
+﻿[
+	{
+		"address": "0xb8ae6836541ddc138734d68882c10028dc4f8f97",
+		"symbol": "mytoken3",
+		"decimal": 6,
+		"type": "default"
+	},
 	{
 		"address": "0x721bb8e957790E8Ecd1fbB94518f5Ff609E99F57",
 		"symbol": "☼ YOON",

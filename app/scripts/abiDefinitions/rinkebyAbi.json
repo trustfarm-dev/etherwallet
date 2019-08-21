@@ -1,18 +1,35 @@
 [
   {
-      "name": "Select a contract...",
+      "name": "yoontoken Token and Token Wallet Contract",
       "address": "0x721bb8e957790E8Ecd1fbB94518f5Ff609E99F57",
       "abi": [
-        {
-          "constant": true,
-          "inputs": [],
-          "name": "name",
-          "outputs": [
-            {
-              "name": "",
-              "type": "string"
-            }
-      ]
+      {
+        "constant": false,
+        "inputs": [
+          {
+            "name": "from",
+            "type": "address"
+          },
+          {
+            "name": "tokens",
+            "type": "uint256"
+          },
+          {
+            "name": "token",
+            "type": "address"
+          },
+          {
+            "name": "data",
+            "type": "bytes"
+          }
+        ],
+        "name": "receiveApproval",
+        "outputs": [],
+        "payable": false,
+        "stateMutability": "nonpayable",
+        "type": "function"
+      }
+    ]
   },
   {
     "name": "☼Plasma Token and Token Wallet Contract",
