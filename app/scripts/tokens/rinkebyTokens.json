@@ -6,6 +6,12 @@
 		"type": "default"
 	},
 	{
+		"address": "0x721bb8e957790E8Ecd1fbB94518f5Ff609E99F57",
+		"symbol": "☼ YOON",
+		"decimal": 18,
+		"type": "default"
+	},
+	{
 		"address": "0xA52832A0B3EBfAeF629B1a44A922F46c90445108",
 		"symbol": "☼ PLASMA",
 		"decimal": 6,
