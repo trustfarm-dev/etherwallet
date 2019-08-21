@@ -1,4 +1,10 @@
-[
+﻿[
+	{
+		"address": "0xb8ae6836541ddc138734d68882c10028dc4f8f97",
+		"symbol": "mytoken3",
+		"decimal": 6,
+		"type": "default"
+	},
 	{
 		"address": "0x2d427d9e535e4382606b93290dcc13a5e9a694be",
 		"symbol": "qwe",
