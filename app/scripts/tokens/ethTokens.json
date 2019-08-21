@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
     "symbol": "$FFC",
@@ -7420,5 +7420,11 @@
     "symbol": "ZXC",
     "decimal": 18,
     "type": "default"
-  }
+  },
+ {
+  "address": "0x529efd6bca4f69f57c2af57d54d8b70d027c654e",
+  "symbol": "CGC",
+  "decimal": 10,
+  "type": "default"
+ }
 ]
