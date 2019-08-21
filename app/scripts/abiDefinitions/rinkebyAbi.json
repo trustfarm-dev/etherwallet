@@ -1,22 +1,35 @@
-﻿[
+[
   {
-      "name": "mytoken3",
-      "address": "0xb8ae6836541ddc138734d68882c10028dc4f8f97",
+      "name": "qwe Token and Token Wallet Contract",
+      "address": "0x2d427d9e535e4382606b93290dcc13a5e9a694be",
       "abi": [
-        {
-          "constant": true,
-          "inputs": [],
-          "name": "name",
-          "outputs": [
-            {
-              "name": "",
-              "type": "string"
-            }
-          ],
-          "payable": false,
-          "stateMutability": "view",
-          "type": "function"
-        }]
+      {
+        "constant": false,
+        "inputs": [
+          {
+            "name": "from",
+            "type": "address"
+          },
+          {
+            "name": "tokens",
+            "type": "uint256"
+          },
+          {
+            "name": "token",
+            "type": "address"
+          },
+          {
+            "name": "data",
+            "type": "bytes"
+          }
+        ],
+        "name": "receiveApproval",
+        "outputs": [],
+        "payable": false,
+        "stateMutability": "nonpayable",
+        "type": "function"
+      }
+    ]
   },
   {
     "name": "☼Plasma Token and Token Wallet Contract",
