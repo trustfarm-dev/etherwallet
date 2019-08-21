@@ -34,12 +34,11 @@
 		"symbol": "WALL",
 		"decimal": 15,
 		"type": "default"
-	}
+	},
 	{
-		"address": "0xcd6e1867A2e227Aac799B46B525d9357B32353d50",
-		"symbol": "WALL",
-		"decimal": 15,
+		"address": "0xe4ed2158281d5cc86b434e1dd4d19a0a8148aff1",
+		"symbol": "yjtoken",
+		"decimal": 18,
 		"type": "default"
 	}
-]
 ]
