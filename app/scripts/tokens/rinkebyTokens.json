@@ -6,6 +6,12 @@
 		"type": "default"
 	},
 	{
+		"address": "0xeAC3d1c2c9Da0a2656C68f669B01a8d362d62F53",
+		"symbol": "☼ rock1",
+		"decimal": 6,
+		"type": "default"
+	},
+	{
 		"address": "0xA52832A0B3EBfAeF629B1a44A922F46c90445108",
 		"symbol": "☼ PLASMA",
 		"decimal": 6,
