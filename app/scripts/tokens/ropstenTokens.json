@@ -10,5 +10,11 @@
     "symbol": "boss",
     "decimal": 18,
     "type": "default"
-  }
+  },
+    {
+	        "address": "0x0c7a4D71DB35451c80bBB03eaf24549897b99cdA",
+		    "symbol": "EJT",
+		        "decimal": 10,
+			    "type": "default"
+			      }
 ]
